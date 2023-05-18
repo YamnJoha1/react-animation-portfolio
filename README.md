@@ -3,11 +3,12 @@
 
 Responsive Personals website with amazing animated graphics
 
-build with: <br>
-React Js, <br>
-Three Js, <br>
-Tilwind, <br>
-Canvas
+build with: <br> 
+<br>
+-React Js <br>
+-Three Js <br>
+-Tailwind <br>
+-Canvas
 <br>
 ![react-portfolio-1](https://github.com/YamnJoha1/react-animation-portfolio/assets/122623147/468a9a60-94f7-43f6-86ad-95548969dc35)
 <br>
